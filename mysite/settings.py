@@ -25,7 +25,9 @@ SECRET_KEY = 'hje5*k^l0eu)8)kf_+yc5=q0%jt-!j9a*q9t_^ey*e2*t&lqtl'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'roseplanet.pythonanywhere.com',
+]
 
 
 # Application definition
